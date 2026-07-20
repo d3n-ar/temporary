@@ -18,7 +18,7 @@
 
 ## Android - Lemuroid 
 
-1. For lemuroid to access it, go to GBAgames folder and extract the gba zip file.
+1. For lemuroid to access it, go to GBAgames folder and select the gba file.
 2. Download Lemuroid from Google Play Store.
 3. Add GBAgames folder in Lemuroid.
 4. Let it scan and play!
@@ -26,16 +26,14 @@
 ## Android & PC - Retroarch 
 
 ***Note:- This is heavily confusing for many, it's not recommended to use retroarch unless you know what you're doing.***
-1. Extract the gba zip file in GBAgames folder.
-2. Download Retroarch from the liberto website.
-3. Go to Online Updater -> Download Core
-4. Install mGBA core. (VBA-m doesn't have guaranteed support)
-5. Select Core from menu after downloading 
-6. Load directory and find GBAgames folder
-7. There Play the game
+1. Download Retroarch from the liberto website.
+2. Go to Online Updater -> Download Core
+3. Install mGBA core. (VBA-m doesn't have guaranteed support)
+4. Select Core from menu after downloading 
+5. Load directory and find GBAgames folder
+6. There Play the game
 
 ## PC - mGBA
-1. Extract the gba zip file in GBAgames folder.
-2. Download mGBA from their website.
-3. Open it and select the file from 'file' option.
-4. Play!
+1. Download mGBA from their website.
+2. Open it and select the file from 'file' option.
+3. Play!
