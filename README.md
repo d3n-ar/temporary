@@ -1,3 +1,12 @@
+# FOR THOSE WHO CAME HERE FOR UPDATE
+1. Save your game, PERFORM IN GAME SAVE , NOT SAVE STATE
+2. Delete the old zip/gba file
+3. Download the new gba file
+4. Play!
+
+# Current Update Status
+```COMPATIBLE WITH LAST VERSION```
+
 # Tutorial 
 
 ## Preliminary 
