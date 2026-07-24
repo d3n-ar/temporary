@@ -2,7 +2,7 @@
 1. Save your game, PERFORM IN GAME SAVE , NOT SAVE STATE
 2. Delete the old gba file
 3. Download the new gba file
-4. Rename your '.sav' file from "v0.4" to "v0.5"
+4. Rename your '.sav' file from "v0.4" to "v0.5" [do this if you are migrating from v0.4, skip otherwise]
 5. Play!
 
 # Current Update Status
