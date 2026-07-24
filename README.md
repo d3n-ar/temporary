@@ -47,3 +47,9 @@
 1. Download mGBA from their website.
 2. Open it and select the file from 'file' option.
 3. Play!
+
+
+# REPOSITORY MIGHT CLOSE SOON! JOIN DISCORD SERVER TO ASK FOR RE-OPENING!
+[![](https://dcbadge.limes.pink/api/server/fBB8824pKx)](https://discord.gg/fBB8824pKx)
+
+[Discord Server Link](https://discord.gg/fBB8824pKx)
